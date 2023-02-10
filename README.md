@@ -16,3 +16,9 @@ The prompt in the video is:
 "The answer is [gptscript]x=0;for(y=1;y<=3;y++) x+=y*y; return x;[/gptscript]". Always write everything between the gptscript tags on one line only.
 Let's begin. What is the 1234*4322?`
 
+
+Some things that don't work properly are: 
+
+* It can't handle multiple lines of scripts.
+* It can't converts pairs of asterisks into italic markdown.
+
