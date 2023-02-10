@@ -1,8 +1,8 @@
 # Chat-GPT-Math-Chrome-Extension
-Making Chat GPT3 good at math
+Making Chat GPT3 good at math. 
 
 
-This is a Chrome Extension to make Chat GPT-3 good at math.
+This is a Chrome Extension to make Chat GPT-3 good at math. It is just for fun. Not meant to be serious software!
 
 See the YouTube video here:  [Perfect Math with Chat GPT](https://www.youtube.com/watch?v=1JJqYyNJEeI)
 
